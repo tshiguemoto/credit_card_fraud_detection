@@ -30,7 +30,8 @@ This will open the iPython Notebook software and project file in your browser.
 
 ## Data
 
-The dataset refers to transactions of European card users in September 2013, obtained from Kaggle. Possessing 284807 lines and 31 features, of which 28 are dependent variables that due to confidentiality are the results of PCA transformations. The data used in this project is included in `creditcard.csv` and you can also have access to this dataset in: https://www.kaggle.com/mlg-ulb/creditcardfraud/data.
+The dataset refers to transactions of European card users in September 2013, obtained from Kaggle. Possessing 284807 lines and 31 features, of which 28 are dependent variables that due to confidentiality are the results of PCA transformations. The data used in this project is `creditcard.csv` and you can have access to this dataset in: https://www.kaggle.com/mlg-ulb/creditcardfraud/data.
+
 **Features**
 - `Time`: Seconds between each transaction
 - `V1-V28`: Dependent anonymous variables due to confidentiality
