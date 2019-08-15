@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection
 #### Final Project for my Udacity Nanodegree in Machine Learning Engineer
 
-### Instalação
+### Installation 
 This project requires **Python 3** and the following Python libraries installed:
 
 - [iPython](https://ipython.org/)
@@ -17,14 +17,14 @@ This project requires **Python 3** and the following Python libraries installed:
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
-### Execução
+### Usage
 In a terminal or command window, navigate to the top-level project directory and run one of the following commands::
 
-```ipython notebook CapstoneProject.ipynb```  
+```ipython notebook Fraud_Detection_en.ipynb```  
 
 or
 
-```jupyter notebook CapstoneProject.ipynb```
+```jupyter notebook Fraud_Detection_en.ipynb```
 
 This will open the iPython Notebook software and project file in your browser.
 
